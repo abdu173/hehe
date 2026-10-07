@@ -1,0 +1,1 @@
+Open index.html in any browser. Arrows/Space/swipe = navigate. RU button (or T) = show/hide Russian. F = fullscreen. Works offline.
